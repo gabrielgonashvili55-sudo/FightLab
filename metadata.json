@@ -1,0 +1,6 @@
+{
+  "name": "FightLab - MMA Training & Learning Platform",
+  "description": "Comprehensive MMA & Brazilian Jiu-Jitsu training platform featuring technique breakdowns, persistent interval round timer, fight simulation lab, and fighter analytics.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
